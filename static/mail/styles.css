@@ -1,0 +1,21 @@
+textarea {
+    min-height: 400px;
+}
+
+.read{
+    background-color: gray;
+}
+
+.unread{
+    background-color: white;
+}
+#email-content{
+  margin:20px;
+
+}
+#email-content:hover{
+  cursor:pointer;
+}
+#button_container button{
+  margin-left:10px
+}
