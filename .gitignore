@@ -7,7 +7,9 @@ venv/
 # Ignore IDE-specific files
 .idea/
 .vscode/
+.DS_Store
 
 # Ignore sensitive or private information
 secret_key.txt
 settings.ini
+
